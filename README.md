@@ -30,3 +30,7 @@ Plain HTML, CSS and vanilla JavaScript. No build step, database or server runtim
 
 ## Development
 Edit `index.html`, commit changes to `main`, and GitHub Pages will publish the update if enabled.
+
+
+## Site development status
+GitHub connector write access verified on 2026-10-16. Upcoming enhancements: image-rich lifestyle pages, Malaysian states and federal territories, education and healthcare directories.
