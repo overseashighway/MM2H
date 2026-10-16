@@ -34,3 +34,5 @@ Edit `index.html`, commit changes to `main`, and GitHub Pages will publish the u
 
 ## Site development status
 GitHub connector write access verified on 2026-10-16. Upcoming enhancements: image-rich lifestyle pages, Malaysian states and federal territories, education and healthcare directories.
+
+- Planned Game Changer extension: Next 50 Years research-based Bangladesh–Malaysia scenario pages and brand-symbol watermarks.
